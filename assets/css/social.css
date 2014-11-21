@@ -1,0 +1,17 @@
+div#social-icons {
+	margin-top:15px;
+}
+div#social-icons div.social-icon {
+	display: inline-block;
+	width: 45px;
+	height: 45px;
+	border: 1px solid #fff;
+	border-radius: 100%;
+	text-align: center;
+	font-size: 24px;
+	line-height: 45px;
+	color: white;
+}
+div#social-icons > div > i {
+	vertical-align: middle;
+}
